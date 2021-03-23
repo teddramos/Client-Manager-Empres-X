@@ -1,0 +1,114 @@
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.exe
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.deps.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.runtimeconfig.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.runtimeconfig.dev.json
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.pdb
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.Views.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Client Manager Empres X.Views.pdb
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.csprojAssemblyReference.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.AssemblyInfoInputs.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.AssemblyInfo.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.RazorAssemblyInfo.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.RazorAssemblyInfo.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.TagHelpers.input.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.TagHelpers.output.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.RazorCoreGenerate.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.RazorTargetAssemblyInfo.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.RazorTargetAssemblyInfo.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.Views.pdb
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\staticwebassets\Client Manager Empres X.StaticWebAssets.Manifest.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\staticwebassets\Client Manager Empres X.StaticWebAssets.xml
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.pdb
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.genruntimeconfig.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.csproj.CopyComplete
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.csproj.CoreCompileInputs.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Client Manager Empres X.MvcApplicationPartsAssemblyInfo.cache
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Client Manager Empresa X2\Client Manager Empres X\Client Manager Empres X\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs

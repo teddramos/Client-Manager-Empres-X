@@ -1,0 +1,79 @@
+﻿@model Client_Manager_Empres_X.Models.Cliente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Direcciones</h1>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.Label("ID")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.Label("Nombre Completo")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre_Completo)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Editar", "Edit","Cliente", new {  id = Model.id}, htmlAttributes: new { @class = "btn btn-outline-dark" }) |
+    <a asp-action="Index" class="btn btn-secondary">Ver Clientes</a>
+</div>
+<div>
+    <h4>Direcciones del Cliente</h4>
+    <form asp-action="Details">
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                @Html.Label("Direccion")
+            </dt>
+            <dd class="col-sm-10">
+                <input name="direccion" class="form-control" />
+            </dd>
+        </dl>
+        <input type="hidden" name="IdCliente" value="@Model.id"/>
+        <div class="form-group">
+            <input type="submit" value="Agregar" class="btn btn-primary" />
+        </div>
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.Label("ID")
+                </th>
+                <th>
+                    @Html.Label("Direccion")
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.dircciones)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.direccion)
+                    </td>
+                    <td>
+                       
+                        @Html.ActionLink("Quitar", "QuitarDireccion","Cliente", new {  id=item.id,idCliente = Model.id }, htmlAttributes: new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+        </table>
+    
+</div>
